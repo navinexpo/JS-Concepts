@@ -1,0 +1,31 @@
+Added Content 
+dated 28-05-2021
+
+# JS is a Client Side Scripiting Language
+# JS code is written into an HTML page and sent it to the browser along with it. 
+# JS cant create over interface.
+# JS is a high level programming language.
+# JS is a high level object oriented client side Interpreted scripting language
+
+
+Construction of JS
+# Basic Part of Js are
+  >Variables
+  >Literal
+  >Objects
+  >Operator
+  >A control Structure
+  >Methods - Special Kind of Functions
+  >Events  - Used to detect actions
+
+Advatanges of the JS
+# Fast ~ Speed
+# Versitle
+# Reduce server loads
+
+Limitations
+# Security issues
+# Depends on Browsers
+
+
+
